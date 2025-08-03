@@ -76,3 +76,4 @@ langchain-huggingface
 
 (If using Ollama, make sure it's installed and running: https://ollama.com)
 
+
